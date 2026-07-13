@@ -4,6 +4,12 @@ End-to-end customer shopping behavior analysis using Python, PostgreSQL, and Pow
 # 🛍️ Customer Shopping Behavior Analysis
 
 Turning 3,900 transaction records into product, pricing, and marketing insight — built with **Python**, **PostgreSQL**, and **Power BI**.
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 ---
 
 ## 📌 Project Overview
